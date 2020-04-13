@@ -1,8 +1,8 @@
 package main
 
 import (
-	. "sort/sortlogic"
 	"fmt"
+	. "sort/sortlogic"
 )
 
 func main() {
